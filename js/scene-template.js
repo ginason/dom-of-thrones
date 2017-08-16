@@ -1,7 +1,7 @@
 function scene<scene_number>() {
 
   // Setup Stage
-
+  
   // Setup Cast
 
   // Character 1
